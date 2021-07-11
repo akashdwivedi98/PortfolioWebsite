@@ -503,7 +503,7 @@ section .title::after{
     padding: 0 15px;
     font-size: 17px;
     font-family: 'Poppins', sans-serif;
-    transition: all 0.3s ease;
+    transition: all 0.31s ease;
 }
 .contact .right form .field input:focus,
 .contact .right form .textarea textarea:focus{
